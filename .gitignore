@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Configuración
+config.py
+
+# Proyectos generados
+Proyectos/
+
+# Logs
+*.log
